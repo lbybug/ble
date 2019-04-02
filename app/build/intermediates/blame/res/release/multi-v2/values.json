@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\BleTsplCpcl(four button)\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace\\BleTsplCpcl(four button)\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\BleTsplCpcl(four button)\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,17,23,22,24,26,18,19,20,33,34,35,36,21,25,29,28,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "686,732,1018,973,1066,1169,785,830,885,1470,1514,1563,1604,929,1119,1311,1253,1385",
+                        "endColumns": "45,52,47,44,52,82,44,54,43,43,48,40,40,43,49,73,57,59",
+                        "endOffsets": "727,780,1061,1013,1114,1247,825,880,924,1509,1558,1599,1640,968,1164,1380,1306,1440"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,215,268,316,361,414,497,542,597,641,685,734,775,816,860,910,984,1042",
+                        "endColumns": "45,52,47,44,52,82,44,54,43,43,48,40,40,43,49,73,57,59",
+                        "endOffsets": "210,263,311,356,409,492,537,592,636,680,729,770,811,855,905,979,1037,1097"
+                    }
+                },
+                {
+                    "source": "D:\\workspace\\BleTsplCpcl(four button)\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1102,1393",
+                        "endLines": "28,31",
+                        "endColumns": "12,12",
+                        "endOffsets": "1388,1548"
+                    }
+                }
+            ]
+        }
+    ]
+}

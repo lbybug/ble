@@ -1,0 +1,4 @@
+#Thu Mar 21 15:28:47 CST 2019
+base.0=D\:\\workspace\\BleTsplCpcl(four button)\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

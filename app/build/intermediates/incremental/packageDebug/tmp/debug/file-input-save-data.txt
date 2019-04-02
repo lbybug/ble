@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 21 15:27:21 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\workspace\\BleTsplCpcl(four button)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
